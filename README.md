@@ -1,4 +1,4 @@
-# Hi, I'm Neeraj Singh 👋
+# Hi, I'm Neeraj 👋
 
 Senior Software Engineer with 9+ years of experience building **scalable, secure, and high-performance platforms** across EdTech, AgriTech, SaaS, and AI-driven products.
 
