@@ -1,126 +1,148 @@
 # Hi, I’m Neeraj 👋
 
-I’m a **Senior Full-Stack Engineer** with **9+ years of experience** building and owning **production systems** across EdTech, AgriTech, and SaaS platforms.
+I’m a **Senior Full-Stack Engineer** with **9+ years of experience** working on systems that run in production and support real users across EdTech, AgriTech, and SaaS platforms.
 
-My background spans **backend, frontend, and cloud infrastructure**, with a strong foundation in **backend-heavy, full-stack systems**. I’ve worked across multiple stacks over the years — from PHP and MySQL to modern Node, Python, and cloud-native architectures — always with a focus on **reliability, clarity, and long-term maintainability**.
+I started my career doing hands-on web development and gradually moved into **owning backend-heavy, full-stack systems**. Over the years, I’ve worked with different stacks — from **PHP and MySQL** in earlier projects to **Node.js, Python, and cloud-based systems** — learning what actually holds up once software is live and teams start depending on it.
 
----
-
-## 🚀 What I Work On
-
-- Designing and building **backend services** used in production
-- Developing **full-stack web applications** and **multi-tenant SaaS platforms**
-- Implementing **async and event-driven architectures**
-- Building **foundational platform modules** (Auth, Orgs, Billing, Audit, Config)
-- Taking systems from development to **deployment, monitoring, and operations**
+I care about building software that is **clear, reliable, and maintainable**, not just technically correct.
 
 ---
 
-## 🧠 Core Expertise
+## 🌐 Portfolio
+
+I keep a detailed walkthrough of my **career journey, experience, and technical focus** here:
+
+👉 **https://nirv067.github.io/**
+
+The portfolio goes deeper into:
+- How my roles evolved over time  
+- The kinds of systems I’ve owned in production  
+- Full-stack work across different domains  
+- How I think about system design and long-term maintainability  
+
+---
+
+## 🚀 What I Spend Most of My Time On
+
+- Building and maintaining **backend services** that teams rely on in production
+- Working on **full-stack applications** and **multi-tenant SaaS systems**
+- Designing **APIs, data models, and service boundaries**
+- Introducing **async and event-driven patterns** where synchronous systems don’t scale
+- Taking responsibility beyond code — **deployments, monitoring, and day-to-day stability**
+
+---
+
+## 🧠 Core Areas I’ve Worked In
 
 ### Backend & APIs
-- **Python**, FastAPI, Django
-- **Node.js**, Express / NestJS
-- **PHP** (production experience)
-- REST APIs, async processing, background jobs
+- Python (FastAPI, Django)
+- Node.js (Express, NestJS)
+- PHP (earlier production systems)
+- REST APIs, background jobs, async processing
 
 ### Databases & Data
-- **PostgreSQL**, **MySQL**
+- PostgreSQL, MySQL
 - Redis
-- Data modeling, migrations, schema evolution
+- Schema design, migrations, and data consistency
 
-### Frontend & Full-Stack
-- **React**, **Next.js**
-- **Angular**
+### Frontend (as part of full-stack work)
+- React, Next.js
+- Angular
 - HTML, CSS, JavaScript
-- Frontend–backend integration and performance considerations
+- Integrating frontend flows cleanly with backend systems
 
 ### Architecture & Infrastructure
-- Modular monoliths and microservices
-- Event-driven systems (Kafka / NATS)
-- Docker & Docker Compose
-- Environment-based setups (local → prod)
-- Secure authentication & authorization flows
+- Modular monoliths and service-based systems
+- Event-driven architectures (Kafka / NATS)
+- Docker and Docker Compose
+- Environment-based setups from local to production
+- Authentication and authorization flows that are simple but secure
 
-### Cloud & DevOps
-- **AWS** (EC2, S3, RDS, IAM – hands-on)
-- **GCP** (cloud services & deployments)
+### Cloud & Operations
+- AWS (EC2, S3, RDS, IAM)
+- GCP (compute and managed services)
 - CI/CD pipelines
-- Production monitoring and operational support
+- Production monitoring and issue handling
 
 ### Platform Engineering
 - Multi-tenant system design
-- Role-Based Access Control (RBAC)
-- Audit logging and compliance-oriented schemas
-- Feature flags and configuration management
+- Role-based access control (RBAC)
+- Audit logs and compliance-friendly data models
+- Feature flags and configuration systems
 
 ### AI & Automation (Exploratory)
-- AI-assisted internal workflows
-- Intelligent catalog and content generation
-- Early-stage experimentation with autonomous operational agents
+- Using AI to assist internal workflows
+- Experimenting with content and catalog automation
+- Early-stage exploration of operational automation
 
 ---
 
-## 🏗️ Currently Building
+## 🏗️ What I’m Currently Working On
 
 ### **RattanShanti**
-A venture-studio style platform designed as a **core operating system** for multiple SaaS products.
+A long-term effort to build a **shared core platform** that can support multiple SaaS products.
 
-The focus is on building **reusable, production-grade core services**, including:
-- Authentication & Identity
-- Organizations & Users
-- Billing & Subscriptions
+The idea is to build common services once and reuse them responsibly:
+- Authentication & identity
+- Organizations and users
+- Billing and subscriptions
 - Notifications
-- Audit Logs
-- Feature Flags
-- AI Services
-- Event Bus & messaging
+- Audit logs
+- Feature flags
+- Event and messaging infrastructure
+- Supporting AI-driven workflows where they make sense
 
-This work emphasizes **clarity, extensibility, and long-term maintainability** over quick hacks.
-
----
-
-## 🧩 Selected Experience (High Level)
-
-- **EdTech Marketplace** – Built and scaled full-stack systems (backend, frontend, integrations) supporting schools and parents across India  
-- **AgriTech (FarMart)** – Worked on backend and operational systems where data correctness, reliability, and uptime were critical  
-- **SaaS & Platform Engineering** – Designing reusable core systems intended to support multiple products over time  
+The focus is on **getting the foundations right**, not rushing features.
 
 ---
 
-## 🛠️ Engineering Principles I Follow
+## 🧩 Experience Snapshot
 
-- Clarity over cleverness
-- Explicit designs over hidden magic
-- Avoid premature abstraction, but design with growth in mind
-- Strong separation of concerns
-- Security, observability, and migrations are **first-class concerns**
+- **EdTech Marketplace**  
+  Worked on full-stack systems supporting schools and parents, gradually moving into backend ownership and platform responsibilities.
+
+- **AgriTech (FarMart)**  
+  Focused on backend and operational systems where data accuracy and reliability mattered every day.
+
+- **SaaS & Platform Work**  
+  Ongoing work around building reusable core systems that can support multiple products over time.
 
 ---
 
-## 📚 Learning & Growth
+## 🛠️ How I Like to Build Software
 
-- Distributed systems and messaging patterns
-- Advanced data modeling and schema evolution
-- Platform-oriented AI integrations
-- Technical leadership and mentoring
+- Prefer **clarity over cleverness**
+- Make things explicit rather than magical
+- Avoid over-engineering, but don’t ignore future growth
+- Keep responsibilities well separated
+- Treat security, observability, and migrations as part of the job — not extras
+
+---
+
+## 📚 What I’m Actively Improving
+
+- Designing and operating distributed systems
+- Better data modeling for evolving products
+- Thoughtful use of AI inside platforms
+- Growing as a technical mentor and reviewer
 
 ---
 
 ## 🔗 Find Me Online
 
-- **LinkedIn:** https://www.linkedin.com/in/neeraj-singh-majestic-dev/
-- **GitHub:** https://github.com/nirv067
-- **HackerRank:** https://www.hackerrank.com/profile/nirv067
+- **Portfolio:** https://nirv067.github.io/  
+- **LinkedIn:** https://www.linkedin.com/in/neeraj-singh-majestic-dev/  
+- **GitHub:** https://github.com/nirv067  
+- **HackerRank:** https://www.hackerrank.com/profile/nirv067  
 
 ---
 
-## 💬 Philosophy
+## 💬 A Simple Belief
 
-> **“Build the core once, then build products with confidence.”**
+> **Build solid foundations, and everything else becomes easier.**
 
-Strong foundations reduce chaos, speed up delivery, and make teams more effective.
+That’s shaped most of my engineering decisions so far.
 
 ---
 
-⭐ If you value **clean architecture, real production ownership, and thoughtful full-stack engineering**, feel free to connect.
+If you’re interested in **clean systems, real production ownership, and thoughtful full-stack work**, feel free to connect.
